@@ -2,7 +2,7 @@
 const contentContainer = document.getElementById("contentContainer");
 
 function createDisplayInformation(argument) {
-  // body...
+
 }
 
 
